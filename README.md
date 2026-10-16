@@ -4,7 +4,7 @@ Backend API for **Bibliopolis-tower-conquest**, a tournament game for the SorSU 
 CS 313 Software Engineering 1, A.Y. 2026-2027.
 
 - Developer: Jeed Kyla Guanizo (jeedkyla-guanizo), BSCS 3-2
-- Group and game concept: Team-10, Bibliopolis: Tower Conquest
+- Group and game concept: 10, Bibliopolis: Tower Conquest
 
 This is my own build of my group's game concept. Every commit in this repository was made by me, with Git, on my own computer or in my own Codespace.
 
